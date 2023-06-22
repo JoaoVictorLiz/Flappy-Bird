@@ -1,4 +1,3 @@
-# https://baronsatoshi.github.io/Flappy-Bird/
 Jogo do Flappy Bird feito com a linguagem Javascript.
 
 # Instruções para caso queira joga-lo:
